@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "375343153609",
+    "firebase_url": "https://menstrual-dd302.firebaseio.com",
+    "project_id": "menstrual-dd302",
+    "storage_bucket": "menstrual-dd302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375343153609:android:b42325fd55ac72884fa818",
+        "android_client_info": {
+          "package_name": "com.app.menstrual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375343153609-27u9q6t22nd5co70uca916f6b7j4m0mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVU4twCxaNQ-miDrmBcBzrQNprSBbwmDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375343153609-27u9q6t22nd5co70uca916f6b7j4m0mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
